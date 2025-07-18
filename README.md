@@ -14,5 +14,8 @@ https://ieeexplore.ieee.org/document/10210292
 
 4.Fingerprint-Based Voting System
 https://www.researchgate.net/publication/377597933_Fingerprint-Based_Voting_System
+
+5.E-Voting Meets Blockchain: A Survey
+https://ieeexplore.ieee.org/document/10061373
  
 
