@@ -11,5 +11,8 @@ https://ieeexplore.ieee.org/document/9520375
 
 3. A Privacy-Preserving Zero-Knowledge Proof for Blockchain
 https://ieeexplore.ieee.org/document/10210292
+
+4.Fingerprint-Based Voting System
+https://www.researchgate.net/publication/377597933_Fingerprint-Based_Voting_System
  
 
