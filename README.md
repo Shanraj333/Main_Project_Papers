@@ -17,5 +17,7 @@ https://www.researchgate.net/publication/377597933_Fingerprint-Based_Voting_Syst
 
 5.E-Voting Meets Blockchain: A Survey
 https://ieeexplore.ieee.org/document/10061373
- 
+
+ 6.A Framework to Make Voting System Transparent Using Blockchain Technology
+ https://ieeexplore.ieee.org/document/9787540
 
